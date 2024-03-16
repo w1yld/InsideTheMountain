@@ -4,7 +4,7 @@
 - Duergar Warlord x1
 - Duergar Stone Guard x4
 - Duergar Soulblade x4
-### Injeongjeon Encounter
+### Pyeonjeon Encounter
 - Duergar Mind Master x2
 - Duergar Stone Guard x3
 - Duergar Kavalrachni x3
